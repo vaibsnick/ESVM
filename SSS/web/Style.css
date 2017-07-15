@@ -1,0 +1,50 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 13, 2017, 3:17:42 PM
+    Author     : Vaibs
+*/
+
+.back{
+    background-color: #000000;
+}
+div.head
+{
+    height: 100px;
+    background: #66ff33;
+    text-align: center ;
+    font-size: xx-large;
+    color: black;
+}
+div.board
+{
+    margin-left: 3.7em;
+    margin-top: 2em;
+    border: 2px black solid;
+    height: 70px;
+    width: 1220px;
+    background: #66ff33;
+    align-content: center;
+}
+div.page
+{
+    margin-left: 3.7em;
+    margin-top: 2em;
+    width: 1220px;
+    float: left;
+    align-content: center;
+}
+button.butt
+{
+    margin-top: 0.4em;
+    
+    border: 2px black solid;
+    height: 50px;
+    width: 300px;
+    align-content: center;
+    background: #99ccff;
+}
+.hide{display: none;}
